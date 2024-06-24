@@ -18,7 +18,7 @@ As you can imagine, each property has different needs and therefore they should 
 ## ➡️ EDA 
 We have some useful information to get to know our data. For that we do the following charts to have a clearer vision of the important data:
 
-!(pics/pic5.jpg)
+![](pics/pic5.jpg)
 
 pic6
 

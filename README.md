@@ -1,4 +1,4 @@
-# 🏢Hotel Project
+# 🏬Hotel Project
 
 In this project, I have taken a dataset from Kaggle (insert link) and divided it as follows:
 After performing a brief EDA to understand the data, I have done customer segmentation using a K-Means algorithm, along with a Forecasting using XGBoost to predict future cancellations.
